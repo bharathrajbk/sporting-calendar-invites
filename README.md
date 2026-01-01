@@ -106,6 +106,13 @@ To check the code coverage of the tests, you can use the `coverage` tool.
     ```
     Open `htmlcov/index.html` in your browser to view the detailed report.
 
+## Contribution Model
+
+This project uses GitHub Actions to ensure code quality.
+
+- **Automated Testing**: All pull requests to the `main` branch trigger automated unit tests.
+- **Code Coverage**: The CI pipeline enforces a minimum code coverage of **90%**. Pull requests that drop coverage below this threshold will fail.
+
 ## Importing into Google Calendar
 
 1.  Open [Google Calendar](https://calendar.google.com/).
