@@ -1,0 +1,386 @@
+[
+  {
+    "summary": "WPL (Women's Premier League)",
+    "start_date": "2026-01-09",
+    "end_date": "2026-02-05",
+    "category": "Cricket"
+  },
+  {
+    "summary": "India vs New Zealand (3 ODIs, 5 T20Is)",
+    "start_date": "2026-01-11",
+    "end_date": "2026-01-31",
+    "category": "Cricket"
+  },
+  {
+    "summary": "Men's T20 World Cup (India & Sri Lanka)",
+    "start_date": "2026-02-07",
+    "end_date": "2026-03-08",
+    "category": "Cricket"
+  },
+  {
+    "summary": "Women's tour of Australia",
+    "start_date": "2026-02-15",
+    "end_date": "2026-03-06",
+    "category": "Cricket"
+  },
+  {
+    "summary": "IPL (Indian Premier League)",
+    "start_date": "2026-03-26",
+    "end_date": "2026-05-31",
+    "category": "Cricket"
+  },
+  {
+    "summary": "Women's tour of England",
+    "start_date": "2026-05-28",
+    "end_date": "2026-07-10",
+    "category": "Cricket"
+  },
+  {
+    "summary": "Women's T20 WC (England & Wales)",
+    "start_date": "2026-06-12",
+    "end_date": "2026-07-05",
+    "category": "Cricket"
+  },
+  {
+    "summary": "India's tour of England",
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-19",
+    "category": "Cricket"
+  },
+  {
+    "summary": "Australian GP",
+    "start_date": "2026-03-06",
+    "end_date": "2026-03-08",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Chinese GP",
+    "start_date": "2026-03-13",
+    "end_date": "2026-03-15",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Japanese GP",
+    "start_date": "2026-03-27",
+    "end_date": "2026-03-29",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Bahrain GP",
+    "start_date": "2026-04-10",
+    "end_date": "2026-04-12",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Saudi Arabian GP",
+    "start_date": "2026-04-17",
+    "end_date": "2026-04-19",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Miami GP",
+    "start_date": "2026-05-01",
+    "end_date": "2026-05-03",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Canadian GP",
+    "start_date": "2026-05-22",
+    "end_date": "2026-05-24",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Monaco GP",
+    "start_date": "2026-06-05",
+    "end_date": "2026-06-07",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Catalunya GP",
+    "start_date": "2026-06-12",
+    "end_date": "2026-06-14",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Austrian GP",
+    "start_date": "2026-06-26",
+    "end_date": "2026-06-28",
+    "category": "Formula One"
+  },
+  {
+    "summary": "British GP",
+    "start_date": "2026-07-03",
+    "end_date": "2026-07-05",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Belgian GP",
+    "start_date": "2026-07-17",
+    "end_date": "2026-07-19",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Hungarian GP",
+    "start_date": "2026-07-24",
+    "end_date": "2026-07-26",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Dutch GP",
+    "start_date": "2026-08-21",
+    "end_date": "2026-08-23",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Italian GP",
+    "start_date": "2026-09-04",
+    "end_date": "2026-09-06",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Spanish GP",
+    "start_date": "2026-09-11",
+    "end_date": "2026-09-13",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Azerbaijan GP",
+    "start_date": "2026-09-24",
+    "end_date": "2026-09-26",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Singapore GP",
+    "start_date": "2026-10-09",
+    "end_date": "2026-10-11",
+    "category": "Formula One"
+  },
+  {
+    "summary": "US GP",
+    "start_date": "2026-10-23",
+    "end_date": "2026-10-25",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Mexican GP",
+    "start_date": "2026-10-30",
+    "end_date": "2026-11-01",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Brazilian GP",
+    "start_date": "2026-11-06",
+    "end_date": "2026-11-08",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Las Vegas GP",
+    "start_date": "2026-11-19",
+    "end_date": "2026-11-21",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Qatar GP",
+    "start_date": "2026-11-27",
+    "end_date": "2026-11-29",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Abu Dhabi GP",
+    "start_date": "2026-12-04",
+    "end_date": "2026-12-06",
+    "category": "Formula One"
+  },
+  {
+    "summary": "Tata Mumbai Marathon",
+    "start_date": "2026-01-18",
+    "end_date": "2026-01-18",
+    "category": "Other Events"
+  },
+  {
+    "summary": "Indian Derby",
+    "start_date": "2026-02-01",
+    "end_date": "2026-02-01",
+    "category": "Other Events"
+  },
+  {
+    "summary": "Winter Olympics",
+    "start_date": "2026-02-06",
+    "end_date": "2026-02-22",
+    "category": "Other Events"
+  },
+  {
+    "summary": "Tour de France",
+    "start_date": "2026-07-04",
+    "end_date": "2026-07-26",
+    "category": "Other Events"
+  },
+  {
+    "summary": "Asian Games (Aichi-Nagoya)",
+    "start_date": "2026-09-19",
+    "end_date": "2026-10-04",
+    "category": "Asian Games"
+  },
+  {
+    "summary": "FIFA World Cup",
+    "start_date": "2026-06-11",
+    "end_date": "2026-07-19",
+    "category": "Football"
+  },
+  {
+    "summary": "Champions League Final",
+    "start_date": "2026-05-30",
+    "end_date": "2026-05-30",
+    "category": "Football"
+  },
+  {
+    "summary": "Augusta Masters",
+    "start_date": "2026-04-09",
+    "end_date": "2026-04-12",
+    "category": "Golf"
+  },
+  {
+    "summary": "PGA Championship",
+    "start_date": "2026-05-14",
+    "end_date": "2026-05-17",
+    "category": "Golf"
+  },
+  {
+    "summary": "US Open (Golf)",
+    "start_date": "2026-06-18",
+    "end_date": "2026-06-21",
+    "category": "Golf"
+  },
+  {
+    "summary": "British Open",
+    "start_date": "2026-07-16",
+    "end_date": "2026-07-19",
+    "category": "Golf"
+  },
+  {
+    "summary": "FIH World Cup",
+    "start_date": "2026-08-14",
+    "end_date": "2026-08-30",
+    "category": "Hockey"
+  },
+  {
+    "summary": "Hockey India League",
+    "start_date": "2025-12-28",
+    "end_date": "2026-01-20",
+    "category": "Hockey"
+  },
+  {
+    "summary": "Australian Open",
+    "start_date": "2026-01-18",
+    "end_date": "2026-02-01",
+    "category": "Tennis"
+  },
+  {
+    "summary": "French Open",
+    "start_date": "2026-05-24",
+    "end_date": "2026-06-07",
+    "category": "Tennis"
+  },
+  {
+    "summary": "Wimbledon",
+    "start_date": "2026-06-29",
+    "end_date": "2026-07-13",
+    "category": "Tennis"
+  },
+  {
+    "summary": "US Open (Tennis)",
+    "start_date": "2026-08-30",
+    "end_date": "2026-09-13",
+    "category": "Tennis"
+  },
+  {
+    "summary": "WTA Finals",
+    "start_date": "2026-11-07",
+    "end_date": "2026-11-14",
+    "category": "Tennis"
+  },
+  {
+    "summary": "ATP Finals",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-22",
+    "category": "Tennis"
+  },
+  {
+    "summary": "Malaysian Open",
+    "start_date": "2026-01-06",
+    "end_date": "2026-01-11",
+    "category": "Badminton"
+  },
+  {
+    "summary": "India Open",
+    "start_date": "2026-01-13",
+    "end_date": "2026-01-18",
+    "category": "Badminton"
+  },
+  {
+    "summary": "All England",
+    "start_date": "2026-03-03",
+    "end_date": "2026-03-08",
+    "category": "Badminton"
+  },
+  {
+    "summary": "Badminton Asia Championships",
+    "start_date": "2026-04-07",
+    "end_date": "2026-04-12",
+    "category": "Badminton"
+  },
+  {
+    "summary": "Thomas and Uber Cup",
+    "start_date": "2026-04-23",
+    "end_date": "2026-05-03",
+    "category": "Badminton"
+  },
+  {
+    "summary": "Singapore Open",
+    "start_date": "2026-05-26",
+    "end_date": "2026-05-31",
+    "category": "Badminton"
+  },
+  {
+    "summary": "Indonesia Open",
+    "start_date": "2026-06-02",
+    "end_date": "2026-06-07",
+    "category": "Badminton"
+  },
+  {
+    "summary": "China Open",
+    "start_date": "2026-07-21",
+    "end_date": "2026-07-26",
+    "category": "Badminton"
+  },
+  {
+    "summary": "World Championships",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-23",
+    "category": "Badminton"
+  },
+  {
+    "summary": "China Masters",
+    "start_date": "2026-09-01",
+    "end_date": "2026-09-06",
+    "category": "Badminton"
+  },
+  {
+    "summary": "Denmark Open",
+    "start_date": "2026-10-13",
+    "end_date": "2026-10-18",
+    "category": "Badminton"
+  },
+  {
+    "summary": "French Open (Badminton)",
+    "start_date": "2026-10-20",
+    "end_date": "2026-10-25",
+    "category": "Badminton"
+  },
+  {
+    "summary": "World Tour Finals",
+    "start_date": "2026-12-09",
+    "end_date": "2026-12-13",
+    "category": "Badminton"
+  }
+]
