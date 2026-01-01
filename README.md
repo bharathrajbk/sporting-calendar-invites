@@ -5,8 +5,7 @@ This project generates an iCalendar (`.ics`) file containing major sporting even
 ## Files
 
 - `events.json`: Contains the structured list of events.
-- `generate_ics.py`: Python script to convert the JSON data into an ICS file.
-- `manage_events.py`: CLI script to add, delete, and list events.
+- `manage_events.py`: CLI script to add, delete, list, and generate events.
 - `templates/`: Directory containing ICS templates.
     - `calendar_template.txt`: Template for the main calendar structure.
     - `event_template.txt`: Template for individual events.
@@ -21,7 +20,7 @@ You can customize the output format by editing the files in the `templates/` dir
 
 ## Managing Events (CLI)
 
-You can use the `manage_events.py` script to easily add, delete, or list events.
+You can use the `manage_events.py` script to easily add, delete, list, or generate events.
 
 ### List Events
 
@@ -64,12 +63,13 @@ To delete and **immediately regenerate** the calendar file:
 python3 manage_events.py delete "Event Name" --regenerate
 ```
 
-## Manual Workflow
+### Generate Calendar
 
-If you prefer to edit the JSON file directly:
+To manually regenerate the `.ics` file from `events.json`:
 
-1.  Modify `events.json`.
-2.  Run `python3 generate_ics.py` to regenerate the `.ics` file.
+```bash
+python3 manage_events.py generate
+```
 
 ## Importing into Google Calendar
 
