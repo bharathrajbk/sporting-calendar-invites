@@ -71,6 +71,41 @@ To manually regenerate the `.ics` file from `events.json`:
 python3 manage_events.py generate
 ```
 
+## Running Tests
+
+This project includes unit tests to verify the functionality of `manage_events.py`.
+
+To run the tests, execute the following command from the root directory:
+
+```bash
+python3 -m unittest discover tests
+```
+
+### Test Coverage
+
+To check the code coverage of the tests, you can use the `coverage` tool.
+
+1.  **Install coverage:**
+    ```bash
+    pip install coverage
+    ```
+
+2.  **Run tests with coverage:**
+    ```bash
+    python3 -m coverage run -m unittest discover tests
+    ```
+
+3.  **View the report:**
+    ```bash
+    python3 -m coverage report
+    ```
+
+4.  **Generate HTML report (optional):**
+    ```bash
+    python3 -m coverage html
+    ```
+    Open `htmlcov/index.html` in your browser to view the detailed report.
+
 ## Importing into Google Calendar
 
 1.  Open [Google Calendar](https://calendar.google.com/).

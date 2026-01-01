@@ -33,14 +33,10 @@ def generate_ics(json_file, output_file):
         end_date_str = event['end_date']
         category = event.get('category', 'General')
 
-        # Parse dates
         start_date = datetime.strptime(start_date_str, "%Y-%m-%d")
         end_date = datetime.strptime(end_date_str, "%Y-%m-%d")
-
         # Adjust end date for exclusive DTEND (add 1 day)
         end_date_exclusive = end_date + timedelta(days=1)
-
-        # Format dates for ICS (YYYYMMDD for all-day events)
         dtstart = start_date.strftime("%Y-%m-%d").replace("-", "")
         dtend = end_date_exclusive.strftime("%Y-%m-%d").replace("-", "")
         # Use datetime.now(datetime.UTC) if available (Python 3.11+), else fallback or ignore deprecation for now
